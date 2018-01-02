@@ -1,5 +1,5 @@
 This is the third file added to the repository
-
+Making change to this third file now...
 making a change to this doc here
 
 /C/work/Git/lynda course/first_git_project/
