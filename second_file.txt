@@ -1,0 +1,6 @@
+This is the second file added to the repository
+
+making a change to this doc here
+
+/C/work/Git/lynda course/first_git_project/
+
