@@ -1,6 +1,9 @@
 This is the third file added to the repository
 Making change to this third file now...
 making a change to this doc here
+ this is the fourth set of changes
+to this document, only 60 char's per line
+
 
 /C/work/Git/lynda course/first_git_project/
 
