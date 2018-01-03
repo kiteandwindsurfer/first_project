@@ -1,6 +1,13 @@
-This is the second file added to the repository
-
+This is the third file added to the repository
+Making change to this third file now...
 making a change to this doc here
+ this is the fourth set of changes
+to this document, only 60 char's per line
 
-/C/work/Git/lynda course/first_git_project/
+cd C/work/Git/lynda course/first_git_project/
+cd /C/work/Git/lynda course/first_git_project/
+C:\work\Git\lynda_course\first_git_project
 
+USE THIS ONE:
+cd c:work/
+cd Git/lynda_course/first_git_project/
