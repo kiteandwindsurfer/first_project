@@ -11,3 +11,5 @@ cd /C/work/Git/lynda_course/first_git_project/
 USE THIS ONE:
 cd c:work/
 cd Git/lynda_course/first_git_project/
+
+git diff
