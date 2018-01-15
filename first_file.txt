@@ -8,7 +8,7 @@ to this document, only 60 char's per line
 cd /C/work/Git/lynda_course/first_git_project/
 cd /C/work/Git/lynda_course/explore_california
 
-Change #1
+Change #2
 
 USE THIS ONE:
 cd c:work/
